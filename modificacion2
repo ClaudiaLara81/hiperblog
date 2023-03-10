@@ -1,0 +1,24 @@
+[33mcommit 9e0c88e6ed33f45f1153b8231668d36c85bf26d1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: claudia Lara <claudetta910@gmail.com>
+Date:   Wed Jan 11 16:53:06 2023 -0500
+
+    Agregamso el cargo de la persona
+    
+    la persona es claudia
+
+[1mdiff --git a/Historia.txt b/Historia.txt[m
+[1mindex cee2fb0..fa315ad 100644[m
+[1m--- a/Historia.txt[m
+[1m+++ b/Historia.txt[m
+[36m@@ -2,4 +2,8 @@[m [mESTA ES LA HISTORIA DE CLAUDIA LARA[m
+ [m
+ FREDDY VEGA TIENE 41 AÑOS Y NACIO EN CHETUMAL[m
+ [m
+[31m-HOY HABLAREMOS DE SU HISTORIA.[m
+\ No newline at end of file[m
+[32m+[m[32mHOY HABLAREMOS DE SU HISTORIA.[m
+[32m+[m
+[32m+[m[32mEn camara parece alto pero la verdad no es alto.[m
+[32m+[m
+[32m+[m[32mhoy es el CEO de platzy[m
+\ No newline at end of file[m
